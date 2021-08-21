@@ -1,0 +1,21 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TJ-Blinn/page-fetcher1"
+  },
+  "author": "Anthony-James (TJ) Blinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJ-Blinn/page-fetcher1"
+  },
+  "homepage": "https://github.com/TJ-Blinn/page-fetcher1#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
